@@ -5,7 +5,7 @@ Bootstrap based custom website template
 Visit <a href="https://www.gauravkeswani.com">Gaurav Keswani</a> to learn more web development tools.<br>
 
 
-Live preview: <a href="https://github.com/Gaurav3170/Livet/">Livet App</a><br></p>
+Live preview: <a href="http://www.gauravkeswani.com/livet-website-template.html">Livet App</a><br></p>
 
 <p align="center">
 <img src="livet_800.jpg" width="600" alt="Wikipedia Viewer">
